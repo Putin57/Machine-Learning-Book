@@ -1,4 +1,5 @@
-<img src="https://github.com/ahammadmejbah/Machine-Learning-Book-Collections/blob/main/mlb.png" alt="MLBC">
+![machine-learning](https://github.com/Putin57/Machine-Learning-Book/assets/75845610/4400df8c-ca8c-41e5-8847-3023d942a2f4)
+
 
 <ol>
 <li>Machine Learning by Tutorials_ Beginning Machine Learning for Apple and iOS.pdf</li>
